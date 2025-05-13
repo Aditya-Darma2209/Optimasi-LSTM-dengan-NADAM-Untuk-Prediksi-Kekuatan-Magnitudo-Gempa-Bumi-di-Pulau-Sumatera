@@ -1,1 +1,3 @@
-# Optimasi-LSTM-dengan-NADAM-Untuk-Prediksi-Kekuatan-Magnitudo-Gempa-Bumi-di-Pulau-Sumatera
+Proyek ini merupakan implementasi pelatihan model prediksi magnitudo gempa bumi di Pulau Sumatera menggunakan algoritma Long Short-Term Memory (LSTM) salah satu arsitektur Deep Learning yang unggul dalam mengolah data deret waktu (time-series). 
+Untuk meningkatkan akurasi dan efisiensi pelatihan model, digunakan algoritma optimisasi Nadam (Nesterov-accelerated Adaptive Moment Estimation) yang menggabungkan keunggulan dari RMSprop dan momentum.  
+Model ini dirancang untuk memprediksi kekuatan magnitudo gempa berdasarkan pola data historis, sehingga dapat menjadi salah satu referensi dalam upaya mitigasi risiko bencana alam di masa mendatang.
