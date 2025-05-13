@@ -1,0 +1,1 @@
+# Optimasi-LSTM-dengan-NADAM-Untuk-Prediksi-Kekuatan-Magnitudo-Gempa-Bumi-di-Pulau-Sumatera
